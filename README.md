@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SARAVANAN M - Front-End Developer and Cloud Enthusiast Portfolio
 
 A dark themed personal portfolio for **SARAVANAN M** based on the resume: B.Tech Information Technology student, front-end developer, Python learner, and cloud enthusiast.
@@ -37,3 +38,6 @@ npm run build
 
 - The project cards are ready to be swapped to your 4 new PNG files when you upload them.
 - The old live project buttons have been removed from the Projects section.
+=======
+# My-Portfolio
+>>>>>>> 602f5064cbe4e306c979e5b31a02d5a0cf4b486f
